@@ -1,0 +1,15 @@
+body {
+    font-family: Trebuchet MS;
+    background-color: rgb(241, 241, 241);
+}
+header{
+    text-align: center;
+    color: rgb(23, 0, 66);
+    background-image: linear-gradient(150deg,rgb(209, 193, 255),rgb(212, 212, 212));
+    padding: 20px;
+    padding-bottom: 5px;
+    padding-top: 1px;
+}
+h1{
+    font-size: 46px;
+}
